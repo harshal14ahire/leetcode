@@ -17,6 +17,7 @@ using Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harshal14ahire/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0709-to-lower-case](https://github.com/harshal14ahire/leetcode/tree/main/0709-to-lower-case/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
